@@ -35,7 +35,7 @@ ThreatHawk leverages the power of top-notch third-party vendors, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourname/ThreatHawk.git
+   git clone https://github.com/purbayan2014/ThreatHawk.git
    ```
 2. Navigate to the ThreatHawk directory:
   ```
